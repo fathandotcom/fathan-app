@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Latihan membuat website")
+st.title("Pengusaha sukses")
 st.write(
-    "Latihan membuat website melalui github dan streamlit dengan menggunakan bahasa python"
+    "Latihan agar menjadi pengusaha sukses seperti patan q"
